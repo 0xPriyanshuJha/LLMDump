@@ -5,3 +5,5 @@ streamlit
 langchain_community
 langchain_core
 langchain_ollama
+google-search-results
+phidata
