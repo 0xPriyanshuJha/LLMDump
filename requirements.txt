@@ -1,0 +1,7 @@
+crewai
+langchain
+ollama
+streamlit
+langchain_community
+langchain_core
+langchain_ollama
